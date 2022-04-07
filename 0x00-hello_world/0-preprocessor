@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E #CFILE -o c[D[0[C[C
+gcc -E #CFILE -o c
